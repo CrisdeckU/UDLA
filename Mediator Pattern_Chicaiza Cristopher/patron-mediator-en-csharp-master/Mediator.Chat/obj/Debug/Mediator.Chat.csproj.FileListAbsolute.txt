@@ -1,0 +1,11 @@
+D:\Downloads\Eejemplo\patron-mediator-en-csharp-master\patron-mediator-en-csharp-master\Mediator.Chat\bin\Debug\Mediator.Chat.exe.config
+D:\Downloads\Eejemplo\patron-mediator-en-csharp-master\patron-mediator-en-csharp-master\Mediator.Chat\bin\Debug\Mediator.Chat.exe
+D:\Downloads\Eejemplo\patron-mediator-en-csharp-master\patron-mediator-en-csharp-master\Mediator.Chat\bin\Debug\Mediator.Chat.pdb
+D:\Downloads\Eejemplo\patron-mediator-en-csharp-master\patron-mediator-en-csharp-master\Mediator.Chat\obj\Debug\Mediator.Chat.csproj.AssemblyReference.cache
+D:\Downloads\Eejemplo\patron-mediator-en-csharp-master\patron-mediator-en-csharp-master\Mediator.Chat\obj\Debug\Mediator.Chat.csproj.SuggestedBindingRedirects.cache
+D:\Downloads\Eejemplo\patron-mediator-en-csharp-master\patron-mediator-en-csharp-master\Mediator.Chat\obj\Debug\Mediator.Chat.Form1.resources
+D:\Downloads\Eejemplo\patron-mediator-en-csharp-master\patron-mediator-en-csharp-master\Mediator.Chat\obj\Debug\Mediator.Chat.Properties.Resources.resources
+D:\Downloads\Eejemplo\patron-mediator-en-csharp-master\patron-mediator-en-csharp-master\Mediator.Chat\obj\Debug\Mediator.Chat.csproj.GenerateResource.cache
+D:\Downloads\Eejemplo\patron-mediator-en-csharp-master\patron-mediator-en-csharp-master\Mediator.Chat\obj\Debug\Mediator.Chat.csproj.CoreCompileInputs.cache
+D:\Downloads\Eejemplo\patron-mediator-en-csharp-master\patron-mediator-en-csharp-master\Mediator.Chat\obj\Debug\Mediator.Chat.exe
+D:\Downloads\Eejemplo\patron-mediator-en-csharp-master\patron-mediator-en-csharp-master\Mediator.Chat\obj\Debug\Mediator.Chat.pdb
